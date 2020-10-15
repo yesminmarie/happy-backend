@@ -1,5 +1,9 @@
 <h1 align="center">:rocket: Happy-Backend :rocket:</h1>
 
+<p align="center">
+<img src="screenshot/screenshot.png" alt="Happy"/>
+</p>
+
 <p align="center">This project was developed in the third Next Level Week(NLW) from Rocketseat. It is the backend of the application named Happy that allows to connect people to nearby orphanages. The frontend can be accessed <a href="https://github.com/yesminmarie/happy-frontend">here</a> and the mobile version <a href="https://github.com/yesminmarie/happy-mobile">here</a>.</p>
 
 <p align="center">
